@@ -1,0 +1,3 @@
+el proyecto numero 1 seria poder hacer un aplicacion para programacion como una especie de ayuda, muchas veces tenes el codigo hecho pero te salta un error y al buscarlo no encuentras solucion podes tomarle una foto desde la aplicacion y solucionarte el error
+el 2 proyecto es una aplicacion para diversion una en el que puedas crear tu propia vida virtual podras vivir y replicar cosas reales pero en el juego como estudiar una licenciatura o completar una carrera, cada accion tiene consecuencias 
+y el 3 proyecto seria una aplicacion de cocina donde vos puedas poner que alimentos tienes y te va diciendo recetas que encuentra con dichos ingredientes,puedes modificar tambien que quieres que lleve la comida como cantidad de proteinas, calorias, carbohidratos etc.
